@@ -1,0 +1,12 @@
+[
+   {
+      "id": 1,
+      "task": "makan nasi",
+      "status": true
+   },
+   {
+      "id": 2,
+      "task": "Belajar OOP lanjut",
+      "status": false
+   }
+]
